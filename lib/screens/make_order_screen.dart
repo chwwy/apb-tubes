@@ -207,7 +207,7 @@ class _MakeOrderScreenState extends State<MakeOrderScreen> {
                                 borderRadius: BorderRadius.circular(20.0),
                                 color: lightGrey255
                               ),
-                              child: const Text("Visa", style: TextStyle(
+                              child: const Text("QRIS", style: TextStyle(
                                 fontSize: 12.0,
                                 color: Colors.white
                               )

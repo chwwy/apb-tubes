@@ -40,6 +40,7 @@ class _PaymentCompletedScreenState extends State<PaymentCompletedScreen> {
                 height: 60.0,
               ),
               Text("Congratulations on your purchase",style: TextStyle(fontWeight: FontWeight.w400, fontSize: 20.0,color: black50)),
+              Text("you can greet your new vehicle at your chosen garage.",style: TextStyle(fontWeight: FontWeight.w400, fontSize: 20.0,color: black50)),
               const Expanded(child: SizedBox.shrink()),
                         SizedBox(
                           width: double.infinity,
